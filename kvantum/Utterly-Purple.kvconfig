@@ -1,6 +1,6 @@
 [%General]
-author=Himprakash Deka
-comment=A dark and modern theme for Kvantum. 
+author=misterbander
+comment=A Kvantum theme modified from Utterly-Nord.
 x11drag=all
 alt_mnemonic=true
 left_tabs=true
@@ -75,28 +75,28 @@ shadowless_popup=false
 tooltip_blur_radius=2
 
 [GeneralColors]
-window.color=#2E3440
-base.color=#2E3440
-alt.base.color=#2E3440
-button.color=#4C566A
+window.color=#352E40
+base.color=#352E40
+alt.base.color=#352E4033
+button.color=#594C6a
 light.color=#ECEFF4
 mid.light.color=#ECEFF4
-dark.color=#2E3440
-mid.color=#2E3440
-highlight.color=#5E81AC
-inactive.highlight.color=#81A1C1
+dark.color=#352E40
+mid.color=#352E40
+highlight.color=#755EAC
+inactive.highlight.color=#9181C1
 text.color=#ECEFF4
 window.text.color=#ECEFF4
 button.text.color=#ECEFF4
 disabled.text.color=#D8DEE9
 tooltip.text.color=#ECEFF4
 highlight.text.color=#ECEFF4
-link.color=#81A1C1
+link.color=#9181C1
 link.visited.color=#8FBCBB
 progress.indicator.text.color=#ECEFF4
 
 [Hacks]
-transparent_ktitle_label=true
+transparent_ktitle_label=false
 transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=true

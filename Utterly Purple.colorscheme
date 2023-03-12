@@ -1,20 +1,20 @@
 [Background]
-Color=46,52,64
+Color=53,46,64
 
 [BackgroundFaint]
-Color=46,52,64
+Color=53,46,64
 
 [BackgroundIntense]
-Color=46,52,64
+Color=53,46,64
 
 [Color0]
-Color=76,86,106
+Color=89,76,106
 
 [Color0Faint]
-Color=76,86,106
+Color=89,76,106
 
 [Color0Intense]
-Color=76,86,106
+Color=89,76,106
 
 [Color1]
 Color=191,97,106
@@ -92,8 +92,9 @@ Color=236,239,244
 Anchor=0.5,0.5
 Blur=true
 ColorRandomization=false
-Description=Utterly-Nord
+Description=Utterly Purple
 FillStyle=Tile
 Opacity=0.6
 Wallpaper=
+WallpaperFlipType=NoFlip
 WallpaperOpacity=1
